@@ -1,5 +1,4 @@
 # Functions lRucifix
-
 ## Player:
 ### No Cooldown
 - No Barrier Cooldown
@@ -32,7 +31,6 @@
 ### Loot
 - Auto Pick Up
 - Loot Range
-
 ## World
 ### Environment
 - Change Time
@@ -50,7 +48,6 @@
 - Free Camera
 - Auto Talk
 - Scoliosis
-
 ## Visual
 ### World
 - Crash World
@@ -73,7 +70,6 @@
 - Ult hair
 ### Send Message
 - Send visual message in game
-
 ## Teleports
 ### Manual Teleport
 - Manual input and change of coordinates
