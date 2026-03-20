@@ -24,7 +24,7 @@
 - Multi-hit
 - Random elements
 - Custom element
-- Player damage
+- Player damage (only trusted)
 # World
 ## Misc
 - Free Camera
@@ -49,6 +49,7 @@
 ## Damage
 - Hide Damage
 - Hide Reaction
+## Create objects
 ## Player
 - Underwater Visual
 - Cinematic Run
