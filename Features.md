@@ -2,7 +2,7 @@
 ## lRauncher Version - 0xLR006502
 
 ### Player Menu Features
-> **No Cooldown**
+> **No Cooldown:**
 > No Barrier Cooldown,
 > Eternal Burst,
 > No Cooldown,
@@ -11,18 +11,18 @@
 > No Sprint Cd,
 > Instant Bow Charge.
 > 
-> **God Mode**
+> **God Mode:**
 > No Fall Damage,
 > Invincibility,
 > No lava damage,
 > Anti-Kick.
 > 
-> **Combat**
+> **Combat:**
 > Double Attack,
 > Multi Hit,
 > Player Damage.
 > 
-> **Movement**
+> **Movement:**
 > No-Clip,
 > Walk On Water,
 > Max Move Slope,
@@ -31,11 +31,11 @@
 > Fish,
 > Player Speed.
 > 
-> **Loot**
+> **Loot:**
 > Loot Range.
 
 ### World Menu Features
-> **Environment**
+> **Environment:**
 > Change Time,
 > Hide Grass,
 > Half shadows,
@@ -45,7 +45,7 @@
 > Stop enviroment change,
 > World Speed.
 > 
-> **Enemies**
+> **Enemies:**
 > Void Aura,
 > Dumb Enemies,
 > Freeze Enemies,
@@ -53,7 +53,7 @@
 > Multi Animations,
 > Bone Changer.
 > 
-> **Misc**
+> **Misc:**
 > Scoliosis,
 > Skip Cutscene,
 > Vacuum Loot,
@@ -65,7 +65,7 @@
 > NPC Spawn.
 
 ### Visual Menu Features
-> **World**
+> **World:**
 > Crash World,
 > Disable Fog,
 > View Distance Ratio,
@@ -75,22 +75,22 @@
 > FSR,
 > Resolution Scale.
 > 
-> **Damage**
+> **Damage:**
 > Hide Damage,
 > Hide Reaction.
 > 
-> **Player**
+> **Player:**
 > Underwater Visual,
 > Cinematic Run,
 > Character Transparency,
 > Booba Scale.
 > 
-> **Changer**
+> **Changer:**
 > Custom UID,
 > Custom Profile,
 > Full changer texts.
 
-> **Other**
+> **Other:**
 > Send Message/
 
 ### Teleports Menu Features
