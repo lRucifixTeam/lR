@@ -91,7 +91,7 @@
 > Full changer texts.
 
 > **Other:**
-> Send Message/
+> Send Message.
 
 ### Teleports Menu Features
 > Manual Teleport,
