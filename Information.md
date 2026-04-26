@@ -1,5 +1,5 @@
 ## Version
-lRucifix ~ 0xGLR06503
+lRucifix ~ 0xGLR06504
 lRifixion ~ 0xSLR04200
 lRucified ~ 0xWLR03200
 
