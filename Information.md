@@ -6,4 +6,4 @@ lRucified ~ 0xWLR03200
 ## Status
 lRucifix ~ Not stable
 lRifixion ~ Not working
-lRucified ~ Not working
+lRucified ~ Testing
