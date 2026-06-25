@@ -4,6 +4,6 @@ lRifixion ~ 0xSLR04200
 lRucified ~ 0xWLR03200
 
 ## Status
-lRucifix ~ Working
+lRucifix ~ Unsafe
 lRifixion ~ Not working
 lRucified ~ Not working
